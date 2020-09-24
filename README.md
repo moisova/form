@@ -1,3 +1,3 @@
-# my10.github.io
-## https://github.com/moisova/my10.github.io.git
+# myten.github.io
+## https://github.com/moisova/myten.github.io.git
 ### v0.0.1
